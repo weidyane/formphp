@@ -1,0 +1,67 @@
+body {
+
+    background-image: url(img/batalha.jpg);
+
+    background-size: cover;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+.container {
+
+    background-color: #B6B7BE;
+
+    width: 600px;
+
+    height: 10em;
+
+    margin: 20em auto;
+
+    padding: 30px;
+
+    box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.5);
+
+    border-radius:10px;
+
+}
+
+
+
+h2 {
+
+    text-align: center;
+
+    color: #064C46;
+
+}
+
+
+
+p {
+
+    font-size: 20px;
+
+}
+
+
+
+.btn {
+
+    font-style: none;
+
+    color: white;
+
+    font-size: 17px;
+
+    background-color: #064C46;
+
+    padding: 8px;
+
+    float: right;
+
+    border-radius: 5px;
+
+}
