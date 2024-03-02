@@ -1,0 +1,67 @@
+body {
+
+    background-image: url(img/harry-voldemort.jpg);
+
+    background-color: #797979;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container {
+
+    background-color: #064C46;
+
+    width: 50%;
+
+    height: 680px;
+
+    margin: 80px auto;
+
+    padding: 30px;
+
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.5);
+
+    border-radius:10px;
+
+}
+
+.titulo {
+
+    text-align: center;
+
+    color: #EEBA30;
+
+}
+
+label {
+
+    color: #EEBA30;
+
+    font-size: 20px;
+
+    padding: 2px;
+
+    display: block;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+input[type="text"],
+
+select {
+
+    width: 100%;
+
+    color: #064C46;
+
+    font-size: 15px;
+
+    padding: 8px;
+
+    margin-bottom: 10px;
+
+    border: 1px}
